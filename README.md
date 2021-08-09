@@ -1,2 +1,2 @@
-# regex-task2
-Assignment 2 for REGex Machine Learning Summer Internship 
+<h1>REGex Machine Learning Summer Internship 2021</h1>
+Task 2: String manipulation, list manipulation and functions
